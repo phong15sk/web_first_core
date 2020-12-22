@@ -21,7 +21,14 @@ namespace Web_First_core_3.Controllers
         {
             return View();
         }
-
+        public IActionResult Privacy2()
+        {
+            return View();
+        }
+        public IActionResult Privacy3()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
