@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c3stEOGB17NKyMLTo1YvzsKdg99+mmOzVCQ2RngIf5maSdVocCZTKadXRsKqP+EYWJ5oi5uh1EB77DM2Pd6bTw==",
+  "dgSpecHash": "5lVCKgO7WoQf9yTG0B36owlfbSNmQ2+jfk0mHJ0mmCa2hpoNOvW6vHURgq5ssPmz9WOFHv3Efzu9XDh7vUmnFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
