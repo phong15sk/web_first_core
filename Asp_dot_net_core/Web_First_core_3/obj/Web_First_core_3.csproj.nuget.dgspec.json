@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj": {
+    "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj",
         "projectName": "Web_First_core_3",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_First_core_3\\Web_First_core_3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_First_core_3\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_First_core_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

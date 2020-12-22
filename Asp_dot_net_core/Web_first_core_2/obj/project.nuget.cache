@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yrjeez8Iro2x9QDlmBzJk1ero2C4bpazqpw2Puhf7fJDUao2vzmIlhOEgYnIM1uD7qP9zCXJKBCLyKB4R3CIFQ==",
+  "dgSpecHash": "5NKaog2JpMtPJJLCAybVGK9K4GhU1zrwmEkyUoHfJ64DNzqwoLYBXb1IEKVO95iNguaG0ADCaSB/TQGEsJCQZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\asp_dot_net_core\\Asp_dot_net_core\\Web_first_core_2\\Web_first_core_2.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\git_clone\\web_first_core\\Asp_dot_net_core\\Web_first_core_2\\Web_first_core_2.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
